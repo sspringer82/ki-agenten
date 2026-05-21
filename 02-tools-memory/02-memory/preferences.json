@@ -1,0 +1,39 @@
+{
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "budget_style": "high-end-luxury",
+  "interests": [
+    "Spanish food",
+    "Spanish culture"
+  ],
+  "planTravelInfo": {
+    "destinationLocation": {
+      "country": "Argentina",
+      "state": "Mendoza"
+    },
+    "locationDetail": {
+      "description": ""
+    }
+  },
+  "_plan": [
+    "destination",
+    "location",
+    "plan",
+    "interests",
+    "travelStyle",
+    "preference"
+  ],
+  "preferenceDetail": {
+    "budget_style": "high-end-luxury",
+    "diet": [
+      "gluten-free",
+      "vegetarian"
+    ],
+    "interests": [
+      "Spanish food",
+      "Spanish culture"
+    ]
+  }
+}
