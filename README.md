@@ -5,3 +5,4 @@
 - Tokenizer: https://platform.openai.com/tokenizer
 - nolima: https://github.com/adobe-research/NoLiMa
 - https://ollama.com/
+- Langchain: https://www.langchain.com/
